@@ -35,7 +35,23 @@ public class Helloworld {
        **/
        
        //Ex4
-       int x = 10,y = 20 , temp
+       Scanner sc = new Scanner(System.in);
+       
+       /** int x = 0;
+       int y = 0;
+       int z = 0;
+       System.out.println("x:");
+       x = sc.nextInt();
+       System.out.println("y:");
+       y = sc.nextInt();
+       System.out.println("x:" + x + "------y:" + y);
+       z = x;
+       x = y;
+       y = z;
+       System.out.println("x:" + x + "------y:" + y);
+       **/
+       
+               
        
     }
 }   
