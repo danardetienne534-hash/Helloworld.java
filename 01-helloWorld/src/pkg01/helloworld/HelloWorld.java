@@ -51,7 +51,19 @@ public class Helloworld {
        System.out.println("x:" + x + "------y:" + y);
        **/
        
-               
+         //TP2 
+         
+         //Ex2
+         
+         /** String monMotDePasse = "0";
+          while (monMotDePasse != admin123)
+          System.out.print("veuillez saisir un mot de passe : ");
+          String monMotDePasse = src.nextLine();
+          **/
+          
+          //Ex3
+          
+        
        
     }
 }   
